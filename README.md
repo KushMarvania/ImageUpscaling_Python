@@ -9,6 +9,6 @@ Convolution Neural Network (CNN) is used with a custom dataset. Model is trained
 
 # Snaps
 <div>
-<img src="images/1.jpg" float="left" width="100%" height="100%">
+<img src="images/Slide 2.png" float="left" width="100%" height="100%">
 </div>
 
