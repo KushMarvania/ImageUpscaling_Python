@@ -4,7 +4,7 @@ Convolution Neural Network (CNN) is used with a custom dataset. Model is trained
 
 # ToDo
 1. Trained ‘.H5’ model is already available in the ‘model’ folder. In case a custom model or custom dataset is needed for training then main.py is the file to refer. 
-2. Link to the dataset we prepared for this model : <a href="https://www.dropbox.com/s/0kw3whv4tw58szf/Focus%20-%20Dataset.rar?dl=0" "style=text-decoration:none;">click here</a>
+2. Link to the dataset we prepared for this model : <a href="https://www.dropbox.com/s/0kw3whv4tw58szf/Focus%20-%20Dataset.rar?dl=0">click here</a>
 3. Front is available in HTML, CSS & JavaScript with all the required assets. This can be integrated using Flask which we preferred. If React is a requirement for the project then the model should be converted in ‘.json’ format and front-end accordingly. Therefore, simple HTML files are attached which can be reviewed in the browser.
 
 # Snaps
