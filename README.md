@@ -16,5 +16,8 @@ Convolution Neural Network (CNN) is used with a custom dataset. Model is trained
 <img src="images/Slice 6.png" float="left" width="100%" height="100%">
 <img src="images/Slice 7.png" float="left" width="100%" height="100%">
 <br><br><hr><br><br>
+<img src="images/sample -1.png" float="left" width="100%" height="100%">
+<img src="images/sample -2.png" float="left" width="100%" height="100%">
+<img src="images/sample -3.png" float="left" width="100%" height="100%">
 </div>
 
