@@ -7,7 +7,7 @@ Convolution Neural Network (CNN) is used with a custom dataset. Model is trained
 2. Link to the dataset we prepared for this model : <a href="https://www.dropbox.com/s/0kw3whv4tw58szf/Focus%20-%20Dataset.rar?dl=0">click here</a>
 3. Front is available in HTML, CSS & JavaScript with all the required assets. This can be integrated using Flask which we preferred. If React is a requirement for the project then the model should be converted in ‘.json’ format and front-end accordingly. Therefore, simple HTML files are attached which can be reviewed in the browser.
 
-# Snaps
+# Snap Shots
 <div>
 <img src="images/Slice 2.png" float="left" width="100%" height="100%">
 <img src="images/Slice 3.png" float="left" width="100%" height="100%">
